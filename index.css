@@ -30,8 +30,7 @@ textarea {
     margin: 0px;
     padding: 30px 0px;
 }
-ne;
-}
+
 
 button,
 .btn,
@@ -274,6 +273,9 @@ html{
    .gap{
        margin-top:15% ;
    }
+   #gaping{
+     padding: 1%;
+   }
 
    .ABout {
        
@@ -322,6 +324,7 @@ html{
    .nav-link{
        
        color: white;
+       
    }
 .navbar-toggler-icon
 {
@@ -402,11 +405,14 @@ html{
 
 @media screen and (max-width: 400px) {
     #big-heading h1{
-        font-size:2px;
+        font-size:20px;
+        padding-bottom:3%;
         
     }
     #big-heading h4{
+
         font-size:15px;
+        padding-bottom:5%;
     }
     #contact
     {
